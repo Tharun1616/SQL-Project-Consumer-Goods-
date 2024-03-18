@@ -1,5 +1,6 @@
 ## Atliq Hardwares SQL Challenge Project
 This project is part of a challenge conducted by Codebasics. You can find the challenge [here](https://codebasics.io/challenge/codebasics-resume-project-challenge/7).
+You can doownload the daaset from the challenge.
 
 ### Introduction
 Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and has a significant presence in other countries as well. However, the management noticed a lack of sufficient insights to make quick and data-informed decisions.
