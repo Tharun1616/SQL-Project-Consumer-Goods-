@@ -11,7 +11,7 @@ The objective of this project is to:
 - Analyze data effectively to derive actionable insights and recommendations for the company.
 
 ### Video Presentation
-You can check out the video presentation of this project on my LinkedIn post [here](https://www.linkedin.com/posts/vannali-tharun-b0ba9a152_dataanalytics-codebasics-hospitalityindustry-activity-7175362807264161793-SxZ6?utm_source=share&utm_medium=member_desktop).
+You can check out the video presentation of this project on my LinkedIn post [here](https://youtu.be/DmGUqT6ZIMI).
 
 ### PPT Presentation
 You can check out the PPT presentation of this project [here](https://www.canva.com/design/DAF_rkMkQYA/nE33tRbkc7ijW0_nTFBZrw/edit?utm_content=DAF_rkMkQYA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
